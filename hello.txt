@@ -1,1 +1,2 @@
 Hello world
+Text from master branch
