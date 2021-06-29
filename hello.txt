@@ -1,2 +1,3 @@
 Hello world
 Text from master branch
+Text from testing branch.
